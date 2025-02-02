@@ -1,0 +1,10 @@
+E01 - Insira o valor 1 em E07
+E02 - Insira o valor 0 em E08
+E03 - Pegue um cartão e some seu valor em E08
+E04 - Se E07 for maior que 31, avançe para E09
+E05 - Some +1 a E07
+E06 - Volte para E03
+E07 - 1
+E08 - 0
+E09 - Mostre o valor de E08 dividido pelo valor de E07
+E10 - Fim
