@@ -6,7 +6,7 @@
 <p>Todos os códigos-fonte que estou desenvolvendo com base no curso de C++ do  <a href="https://youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40&si=468PqLCmT8eZSR17">CFBCursos</a> </p>
 
  <figure>
-  <img src="https://yt3.googleusercontent.com/GtOKBi7GVqnYBjQND5Vx61QlIK1YDJjtsIOeiu1baiS7XI9TGIQflMyeotVP6xwe8_1zGMjeJw=s900-c-k-c0x00ffffff-no-rj" alt="CFBCursos">
+  <img src="https://static.vakinha.com.br/uploads/vakinha/image/158654/IMG_20170612_122232.jpg" alt="CFBCursos">
 </figure> 
 
 </body>
